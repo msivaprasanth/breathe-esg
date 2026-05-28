@@ -1,0 +1,6 @@
+billing_period_start,billing_period_end,meter_id,facility_name,consumption_kwh,cost,currency,provider,country
+2024-01-01,2024-01-31,MTR001,Mumbai Plant,24100,185000,INR,Tata Power,India
+2024-02-01,2024-02-29,MTR001,Mumbai Plant,26300,201000,INR,Tata Power,India
+2024-03-01,2024-03-31,MTR002,Delhi Office,12800,98000,INR,BSES,India
+2024-03-01,2024-03-31,MTR003,Chennai Plant,1450000,9200000,INR,TANGEDCO,India
+2024-04-01,2024-04-30,MTR002,Delhi Office,11900,91000,INR,BSES,India

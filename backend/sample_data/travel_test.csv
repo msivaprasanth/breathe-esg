@@ -1,0 +1,9 @@
+travel_date,employee_id,employee_name,transport_mode,origin,destination,travel_class,vendor,amount,currency,nights
+2024-01-10,EMP-00234,Rahul Sharma,AIR,BLR,DEL,economy,IndiGo,15200,INR,
+2024-01-15,EMP-00891,Priya Nair,AIR,BOM,SIN,business,Singapore Airlines,78500,INR,3
+2024-02-02,EMP-00112,Arjun Patel,RAIL,DEL,MAA,economy,IRCTC,4200,INR,
+2024-02-18,EMP-00567,Sneha Rao,HOTEL,,,standard,Taj Hotels,24500,INR,4
+2024-03-05,,Unknown Employee,AIR,BLR,LHR,economy,British Airways,96500,INR,5
+2024-03-12,EMP-00345,Vikram Singh,AIR,JFK,LAX,business,Delta,132000,USD,2
+2024-03-18,EMP-00678,Ananya Gupta,CAR,BLR,MAA,standard,Uber,9800,INR,
+2024-03-22,EMP-00999,Karan Mehta,AIR,DEL,DXB,economy,Emirates,56200,INR,2

@@ -1,0 +1,11 @@
+Meter ID,Site,Billing Period Start,Billing Period End,Consumption,Unit,Tariff,Amount
+MTR-BLR-001,Bangalore HQ - Block A,2024-02-15,2024-03-16,48200,kWh,HT-2 Industrial,"3,85,600"
+MTR-BLR-002,Bangalore HQ - Block B,2024-02-15,2024-03-16,32100,kWh,HT-2 Industrial,"2,56,800"
+MTR-MUM-001,Mumbai Plant Main,2024-02-10,2024-03-12,125400,kWh,HT-1 Industrial,"10,03,200"
+MTR-MUM-002,Mumbai Plant DG Backup,2024-02-10,2024-03-12,8200,kWh,LT-4,"65,600"
+MTR-PUN-001,Pune Assembly Unit,2024-03-01,2024-03-31,41800,kWh,HT-2 Industrial,"3,34,400"
+MTR-HYD-001,Hyderabad Office,2024-02-20,2024-03-22,18900,kWh,LT-2 Commercial,"1,51,200"
+MTR-CHN-001,Chennai Port Facility,2024-02-01,2024-04-02,287500,kWh,HT-1 Industrial,"23,00,000"
+MTR-DEL-001,Delhi HQ,2024-03-05,2024-04-04,22400,kWh,LT-2 Commercial,"1,79,200"
+MTR-BLR-003,Bangalore Data Center,2024-03-01,2024-03-31,95600,MWh,HT-1 Industrial,"76,48,000"
+MTR-MUM-003,Mumbai Guest House,2024-03-01,2024-03-31,0,kWh,LT-1 Residential,0
